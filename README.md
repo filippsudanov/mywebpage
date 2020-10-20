@@ -14,5 +14,3 @@
 ## Где посмотреть фотографии моих родственников
 1. [Тут](https://www.google.lv/search?hl=en&tbm=isch&q=hedgehog&oq=hedgehog)
 2. [Или тут](https://duckduckgo.com/?t=lm&q=hedgehog&iax=images&ia=images)
-##### foo
-###### foo
